@@ -30,5 +30,4 @@ void loop() {
  
 } 
   
- /* Serial.println("counterclockwise");
-  myStepper.step(-stepsPerRevolution);*/
+
